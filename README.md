@@ -1,101 +1,190 @@
-<p align="center">
-  <img src="https://github.com/kalmadhoun7.png" width="150" alt="Khaled Al Madhoun"/>
-</p>
+<div align="center">
+  
+# 👋 Hi, I'm Khaled Almadhoun
 
-<h1 align="center">Hi, I'm Khaled Al Madhoun 👋</h1>
-<p align="center">
-Full-Stack Web Developer | PHP, Laravel, Flutter/Dart | MySQL | JavaScript | TailwindCSS
-</p>
+### 💻 Full-Stack Web Developer | 🚀 Building Scalable Solutions
+
+[![Location](https://img.shields.io/badge/📍_Location-Gaza_City,_Palestine-blue?style=for-the-badge)](https://maps.google.com/?q=Gaza+City)
+[![Email](https://img.shields.io/badge/Email-khlaedmadhoun7%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:khlaedmadhoun7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kalmadhoun7-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kalmadhoun7)
+[![GitHub](https://img.shields.io/badge/GitHub-kalmadhoun7-181717?style=for-the-badge&logo=github)](https://github.com/kalmadhoun7)
+
+</div>
 
 ---
 
-## 🌐 Connect with me
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kalmadhoun7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/kalmadhoun7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.facebook.com/kalmadhoun7">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/kalmadhoun7">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+```typescript
+const khaled = {
+    role: "Full-Stack Web Developer",
+    experience: "3+ years",
+    location: "Gaza City, Palestine",
+    education: "Bachelor of IT - Islamic University of Gaza",
+    currently: "Level 1 Support Engineer @ Palestinian Federation of Industries",
+    interests: ["Digital Transformation", "Web Development", "System Optimization"],
+    funFact: "I love turning complex problems into elegant solutions ✨"
+};
+```
+
+Results-driven developer with **3+ years** of experience building scalable web applications, digital service platforms, and technical support systems. Passionate about creating user-centered solutions and optimizing system performance.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
+### Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Design Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-**Palestinian Federation of Industries (PFI)** – Level 1 Support Engineer  
-*Dec 2025 – Present | Gaza City, Palestine*  
-- Supported digital arbitration platform (UNDP collaboration).  
-- Monitored functionality, escalated issues, improved chatbot content.  
+<details open>
+<summary><b>🔧 Level 1 Support Engineer</b> - Palestinian Federation of Industries (PFI)</summary>
+<br>
 
-**Modern Civic Engineering (MCE Group)** – Full Stack Web Developer  
-*Jan 2022 – Sep 2023 | Gaza City, Palestine*  
-- Developed CRM and enterprise systems using Laravel.  
-- Built RESTful APIs, admin dashboards, and modular backend architectures.  
+📅 **Dec 2025 - Present** | 📍 Gaza City, Palestine
 
-**New Star Max (NSM)** – Network Technician & Account Coordinator  
-*Dec 2023 – Jul 2025 | Deir El-Balah, Palestine*  
-- Managed internet networks, installed/configured wireless devices, tracked client accounts.  
+- 🛡️ Providing technical support for digital arbitration platform (UNDP collaboration)
+- 📊 Monitoring platform functionality and user experience
+- 🔄 Managing issue escalation and tracking
+- 🤖 Improving chatbot content and technical reporting
+
+</details>
+
+<details>
+<summary><b>🌐 Network Technician & Account Coordinator</b> - New Star Max (NSM)</summary>
+<br>
+
+📅 **Dec 2023 - Jul 2025** | 📍 Deir El-Balah, Gaza Strip
+
+- 🌍 Managed local internet distribution networks
+- 📡 Configured wireless devices (LiteBeam, PowerBeam)
+- 📈 Maintained client accounts using Excel & Google Sheets
+
+</details>
+
+<details>
+<summary><b>💻 Full Stack Web Developer</b> - Modern Civic Engineering (MCE Group)</summary>
+<br>
+
+📅 **Jan 2022 - Sep 2023** | 📍 Gaza City, Palestine
+
+- 🏗️ Designed enterprise systems: CRM, management platforms
+- 🔌 Built RESTful APIs and modular backend architectures
+- 📊 Created admin dashboards and reporting tools
+- 🚀 Improved operational efficiency by **30%** with Laravel-based CRM
+
+**Key Projects:**
+- ✅ CRM System
+- ✅ MCE Infra Management System
+- ✅ Laravel Platform ([mceitakeoff.com](http://mceitakeoff.com))
+
+</details>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Key Achievements
 
-<p align="center">
-  <a href="https://github.com/kalmadhoun7/blog"><img src="https://img.shields.io/badge/Blog-Laravel-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/kalmadhoun7/Meal-App"><img src="https://img.shields.io/badge/Meal-App-Flutter-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/kalmadhoun7/Simple-Supermarket-Control"><img src="https://img.shields.io/badge/Supermarket-Control-Dart-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/kalmadhoun7/Todo-App"><img src="https://img.shields.io/badge/Todo-App-Dart-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/kalmadhoun7/Quote-Search-Filter"><img src="https://img.shields.io/badge/Quote-Search-Filter-JS-blue?style=for-the-badge"/></a>
-</p>
+🎯 **Efficiency Gains**
+- Improved client management efficiency by **30%** with custom CRM system
+
+🔧 **Technical Excellence**
+- Built RESTful APIs supporting multiple enterprise platforms
+- Implemented secure PHP/MySQL applications with optimized database design
+
+🤝 **Collaboration**
+- Supported UNDP's digital arbitration platform (SAWASYA Project)
+- Delivered projects using agile methodologies
+
+🚀 **Innovation**
+- Created responsive CMS platforms for efficient content management
+- Designed admin dashboards enhancing operational workflows
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalmadhoun7&show_icons=true&theme=radical&count_private=true" alt="Khaled's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalmadhoun7&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+
+![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalmadhoun7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalmadhoun7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalmadhoun7&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
 
 ---
 
-## 👀 Visitors
+## 🎓 Education & Certifications
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalmadhoun7&color=blueviolet&style=flat-square" alt="visitor count" />
-</p>
+🎓 **Bachelor of Information Technology**
+- Islamic University of Gaza (2017-2025)
+- GPA: 80.74/100
+
+📜 **Professional Courses:**
+- ✅ Full-Stack Web Developer Bootcamp - Gaza Sky Geeks
+- ✅ MVC Development with Laravel - LinkIT
+- ✅ The Complete Dart Learning Guide - Udemy
+- ✅ PHP 8 Learning Guide - Udemy
+- ✅ Native PHP & MySQL Development - Vision Plus
+- ✅ Java SE 8 Certified Programmer - Vision Plus
 
 ---
 
-## 🎯 Goals
+## 🌍 Languages
 
-- Contribute to innovative open-source projects.  
-- Enhance skills in **Cybersecurity, Data Science, and Advanced Web Development**.  
-- Build scalable, secure applications for institutional and public services.  
+🗣️ **Arabic:** Native (Fluent)
+🗣️ **English:** Professional Working Proficiency
 
 ---
 
-✨ **Let's connect and build amazing digital experiences together!**
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khlaedmadhoun7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalmadhoun7)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalmadhoun7)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/970597533513)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=kalmadhoun7&color=58A6FF&style=for-the-badge)
+
+⭐️ **If you like my work, consider giving a star to my repositories!**
+
+</div>
