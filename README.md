@@ -129,16 +129,6 @@ Results-driven developer with **3+ years** of experience building scalable web a
 
 ---
 
-## 📊 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalmadhoun7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 🎓 **Bachelor of Information Technology**
