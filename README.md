@@ -14,20 +14,19 @@
 ---
 
 ## 🚀 About Me
-
 ```typescript
 const khaled = {
     role: "Full-Stack Web Developer",
     experience: "3+ years",
     location: "Gaza City, Palestine",
-    education: "Bachelor of IT - Islamic University of Gaza",
-    currently: "Level 1 Support Engineer @ Palestinian Federation of Industries",
-    interests: ["Digital Transformation", "Web Development", "System Optimization"],
+    education: "Bachelor of Multimedia & Web Development - Islamic University of Gaza",
+    currently: "Junior Developer @ Palestinian Federation of Industries (GRRD Project)",
+    interests: ["Digital Transformation", "Backend Architecture", "Workflow Automation"],
     funFact: "I love turning complex problems into elegant solutions ✨"
 };
-```
+` ` `
 
-Results-driven developer with **3+ years** of experience building scalable web applications, digital service platforms, and technical support systems. Passionate about creating user-centered solutions and optimizing system performance.
+Results-driven Full-Stack Developer with **3+ years** of experience building scalable web applications, digital service platforms, and automated data workflows. Specializing in PHP (Laravel) and JavaScript, I am passionate about creating user-centered solutions, optimizing system performance, and developing technology that supports real-world impact.
 
 ---
 
@@ -66,15 +65,27 @@ Results-driven developer with **3+ years** of experience building scalable web a
 ## 💼 Professional Experience
 
 <details open>
+<summary><b>💻 Junior Developer</b> - Palestinian Federation of Industries (PFI)</summary>
+<br>
+
+📅 **Jan 2026 - Apr 2026** | 📍 Gaza City, Palestine
+
+- 📈 Developing a robust reporting and analytics engine for the UNDP-partnered GRRD project.
+- 🧹 Automating data processing and cleaning using advanced software scripts.
+- 🔄 Building multi-format data export features (Excel, PDF, CSV) to streamline field workflows.
+- 🛠️ Conducting periodic tests and addressing technical bugs to ensure platform reliability.
+
+</details>
+
+<details>
 <summary><b>🔧 Level 1 Support Engineer</b> - Palestinian Federation of Industries (PFI)</summary>
 <br>
 
-📅 **Dec 2025 - Present** | 📍 Gaza City, Palestine
+📅 **Dec 2025 - Jan 2026** | 📍 Gaza City, Palestine
 
-- 🛡️ Providing technical support for digital arbitration platform (UNDP collaboration)
-- 📊 Monitoring platform functionality and user experience
-- 🔄 Managing issue escalation and tracking
-- 🤖 Improving chatbot content and technical reporting
+- ⚖️ Enhanced and refactored the core codebase of the Alternative Dispute Resolution (ADR) platform, supported by the UN's SAWASYA program.
+- 🤖 Integrated and trained an AI-driven ChatBot to provide automated legal orientation.
+- 📂 Streamlined document upload and case tracking workflows for an improved digital experience.
 
 </details>
 
@@ -82,11 +93,11 @@ Results-driven developer with **3+ years** of experience building scalable web a
 <summary><b>🌐 Network Technician & Account Coordinator</b> - New Star Max (NSM)</summary>
 <br>
 
-📅 **Dec 2023 - Jul 2025** | 📍 Deir El-Balah, Gaza Strip
+📅 **Dec 2023 - Jul 2025** | 📍 Gaza City, Palestine
 
-- 🌍 Managed local internet distribution networks
-- 📡 Configured wireless devices (LiteBeam, PowerBeam)
-- 📈 Maintained client accounts using Excel & Google Sheets
+- 🌍 Managed local internet distribution networks and financial records.
+- 📡 Configured wireless devices and aligned transmission towers to optimize signal stability.
+- 🛠️ Provided basic connectivity troubleshooting for consistent local service.
 
 </details>
 
@@ -96,15 +107,15 @@ Results-driven developer with **3+ years** of experience building scalable web a
 
 📅 **Jan 2022 - Sep 2023** | 📍 Gaza City, Palestine
 
-- 🏗️ Designed enterprise systems: CRM, management platforms
-- 🔌 Built RESTful APIs and modular backend architectures
-- 📊 Created admin dashboards and reporting tools
-- 🚀 Improved operational efficiency by **30%** with Laravel-based CRM
+- 🏗️ Designed enterprise systems: CRM, infrastructure management platforms.
+- 🔌 Built RESTful APIs and modular Laravel backend architectures.
+- 📊 Created custom admin dashboards featuring real-time reporting.
+- 🚀 Improved client management efficiency by **30%**.
 
 **Key Projects:**
-- ✅ CRM System
+- ✅ Enterprise CRM System
 - ✅ MCE Infra Management System
-- ✅ Laravel Platform ([mceitakeoff.com](http://mceitakeoff.com))
+- ✅ Laravel Platform ([mcetakeoff.com](https://mcetakeoff.com))
 
 </details>
 
@@ -112,36 +123,33 @@ Results-driven developer with **3+ years** of experience building scalable web a
 
 ## 🏆 Key Achievements
 
-🎯 **Efficiency Gains**
-- Improved client management efficiency by **30%** with custom CRM system
+🎯 **System Optimization & Efficiency**
+- Improved client management efficiency by **30%** with a custom Laravel CRM system.
+- Automated complex data processing for high-impact recovery projects (GRRD).
 
 🔧 **Technical Excellence**
-- Built RESTful APIs supporting multiple enterprise platforms
-- Implemented secure PHP/MySQL applications with optimized database design
+- Built scalable RESTful APIs supporting multiple enterprise platforms and +500 daily users.
+- Enhanced secure authentication and multi-step forms for UN-supported platforms.
 
-🤝 **Collaboration**
-- Supported UNDP's digital arbitration platform (SAWASYA Project)
-- Delivered projects using agile methodologies
+🤝 **High-Impact Collaboration**
+- Contributed to the ADR platform for PFI, supported by the UN's SAWASYA program, improving access to justice.
+- Developed analytics systems for the UNDP-partnered Gaza Recovery, Reconstruction, and Development (GRRD) initiative.
 
-🚀 **Innovation**
-- Created responsive CMS platforms for efficient content management
-- Designed admin dashboards enhancing operational workflows
+🤖 **Innovation**
+- Successfully integrated and trained AI ChatBots for automated user guidance and legal orientation.
 
 ---
 
 ## 🎓 Education & Certifications
 
-🎓 **Bachelor of Information Technology**
-- Islamic University of Gaza (2017-2025)
-- GPA: 80.74/100
+🎓 **Bachelor of Multimedia & Web Development**
+- Islamic University of Gaza (Aug 2017 - Jul 2025)
 
 📜 **Professional Courses:**
-- ✅ Full-Stack Web Developer Bootcamp - Gaza Sky Geeks
-- ✅ MVC Development with Laravel - LinkIT
 - ✅ The Complete Dart Learning Guide - Udemy
 - ✅ PHP 8 Learning Guide - Udemy
-- ✅ Native PHP & MySQL Development - Vision Plus
 - ✅ Java SE 8 Certified Programmer - Vision Plus
+- ✅ Full-Stack Web Developer Bootcamps & MVC Development
 
 ---
 
@@ -159,7 +167,6 @@ Results-driven developer with **3+ years** of experience building scalable web a
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khlaedmadhoun7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalmadhoun7)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalmadhoun7)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/970597533513)
 
 </div>
 
@@ -174,3 +181,6 @@ Results-driven developer with **3+ years** of experience building scalable web a
 ⭐️ **If you like my work, consider giving a star to my repositories!**
 
 </div>
+```
+
+> **ملاحظة مهمة:** في قسم `About Me`، السطر الثلاثي ` ``` ` الذي يغلق الـ TypeScript code block — تأكد أنه مكتوب هكذا بدون مسافات بين الـ backticks (في الكود أعلاه وضعت مسافات لأسباب تقنية في العرض). عند اللصق في ملف الـ README الفعلي سيكون صحيحاً تلقائياً.
