@@ -181,6 +181,3 @@ Results-driven Full-Stack Developer with **3+ years** of experience building sca
 ⭐️ **If you like my work, consider giving a star to my repositories!**
 
 </div>
-```
-
-> **ملاحظة مهمة:** في قسم `About Me`، السطر الثلاثي ` ``` ` الذي يغلق الـ TypeScript code block — تأكد أنه مكتوب هكذا بدون مسافات بين الـ backticks (في الكود أعلاه وضعت مسافات لأسباب تقنية في العرض). عند اللصق في ملف الـ README الفعلي سيكون صحيحاً تلقائياً.
