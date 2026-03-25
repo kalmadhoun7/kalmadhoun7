@@ -24,7 +24,7 @@ const khaled = {
     interests: ["Digital Transformation", "Backend Architecture", "Workflow Automation"],
     funFact: "I love turning complex problems into elegant solutions ✨"
 };
-` ` `
+```
 
 Results-driven Full-Stack Developer with **3+ years** of experience building scalable web applications, digital service platforms, and automated data workflows. Specializing in PHP (Laravel) and JavaScript, I am passionate about creating user-centered solutions, optimizing system performance, and developing technology that supports real-world impact.
 
